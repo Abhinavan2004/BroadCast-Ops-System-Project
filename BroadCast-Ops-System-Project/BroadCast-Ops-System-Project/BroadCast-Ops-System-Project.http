@@ -1,0 +1,6 @@
+@BroadCast_Ops_System_Project_HostAddress = http://localhost:5265
+
+GET {{BroadCast_Ops_System_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
