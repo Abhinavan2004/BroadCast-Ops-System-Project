@@ -1,0 +1,1036 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="SiNbxXPnqOmMWo6EsZme">
+    <mxGraphModel dx="1106" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2b2b2b;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="480" width="760" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1" value="📺 BroadcastOps  |  Enterprise Production Access Gateway" vertex="1">
+          <mxGeometry height="40" width="760" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="swimlane;startSize=0;fillColor=#1f1f1f;strokeColor=#555555;" value="" vertex="1">
+          <mxGeometry height="340" width="310" x="235" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fontColor=#ffffff;" value="SECURE PORTAL LOGIN" vertex="1">
+          <mxGeometry height="30" width="270" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="5" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#aaaaaa;" value="Corporate Email Address" vertex="1">
+          <mxGeometry height="20" width="250" x="30" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="5" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontColor=#888888;fillColor=#2a2a2a;strokeColor=#444444;" value="  user@company.com" vertex="1">
+          <mxGeometry height="30" width="250" x="30" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="5" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#aaaaaa;" value="System Password" vertex="1">
+          <mxGeometry height="20" width="250" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="5" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontColor=#888888;fillColor=#2a2a2a;strokeColor=#444444;" value="  **********" vertex="1">
+          <mxGeometry height="30" width="250" x="30" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;strokeColor=#005700;" value="AUTHENTICATE &amp;amp; ENTER" vertex="1">
+          <mxGeometry height="35" width="250" x="30" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#60a9ff;textDecoration=underline;" value="Need clearance? Request Account Access" vertex="1">
+          <mxGeometry height="20" width="250" x="30" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem. Authorized Operations Personnel Only." vertex="1">
+          <mxGeometry height="30" width="760" x="40" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="640" width="1140" x="80" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Content Library Portal &amp;amp; Archive Management System" vertex="1">
+          <mxGeometry height="40" width="1140" x="80" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-31" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Rohit (Content Librarian)" vertex="1">
+          <mxGeometry height="30" width="220" x="980" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1140" x="80" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="➕ REGISTER NEW ASSET" vertex="1">
+          <mxGeometry height="30" width="175" x="95" y="697" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1240ab;fontColor=#ffffff;fontSize=11;strokeColor=none;" value="📁 Asset Catalog" vertex="1">
+          <mxGeometry height="30" width="120" x="285" y="697" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#aaaaaa;fontSize=11;strokeColor=none;" value="⏳ Ingest Tracker" vertex="1">
+          <mxGeometry height="30" width="120" x="415" y="697" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#aaaaaa;fontSize=11;strokeColor=none;" value="📜 Rights Viewer" vertex="1">
+          <mxGeometry height="30" width="120" x="545" y="697" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-37" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;textStyle=1;labelBackgroundWidth=0;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="1090" x="95" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-38" parent="YmY2X1InK2T_SaKjB84g-37" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📁 MAIN METADATA REGISTRY (ContentAsset Table)" vertex="1">
+          <mxGeometry height="20" width="400" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-39" parent="YmY2X1InK2T_SaKjB84g-37" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="AssetID | Title | AssetType | Genre | Language | Duration | Year | Country | Classification | FilePath | Status&#xa;------------------------------------------------------------------------------------------------------------------------------------------------------------------------&#xa;AS-101 | Evening Corporate News | News | Current Affairs | English | 00:30:00 | 2026 | United Kingdom | U | /media/news/file_101.mxf | Available&#xa;AS-102 | Championship Football Live | Sports | Tournament | Spanish | 02:15:00 | 2026 | Spain | U | /media/sports/sp_102.ts | QCApproved&#xa;AS-103 | Crime Documentary Series | Documentary | Crime | English | 00:52:00 | 2025 | United States | A | /media/docs/cd_103.mp4 | Pending" vertex="1">
+          <mxGeometry height="165" width="1075" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-40" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="480" x="95" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-41" parent="YmY2X1InK2T_SaKjB84g-40" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="⏳ WORKFLOW ENGINE MONITOR (IngestJob Table)" vertex="1">
+          <mxGeometry height="20" width="350" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-42" parent="YmY2X1InK2T_SaKjB84g-40" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="IngestID | AssetID | SourceFormat | IngestedByID | QCStatus | Status&#xa;--------------------------------------------------------------------------------------------&#xa;IG-801 | AS-101 | MXF Broadcast | 2 (Rohit) | Passed | Completed&#xa;IG-802 | AS-102 | Transport Stream| 2 (Rohit) | Passed | Completed&#xa;IG-803 | AS-103 | H.264 MP4 | 2 (Rohit) | Pending | InProgress" vertex="1">
+          <mxGeometry height="165" width="450" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-43" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="605" x="605" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-44" parent="YmY2X1InK2T_SaKjB84g-43" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📜 RIGHTS LICENSE MONITOR (RightsRecord Table)" vertex="1">
+          <mxGeometry height="20" width="350" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-45" parent="YmY2X1InK2T_SaKjB84g-43" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="RightsID | AssetID | Territory | Medium | Start Date | End Date | Max/Used | Status&#xa;-------------------------------------------------------------------------------------------------------&#xa;RT-401 | AS-101 | Domestic | FreeToAir| 2026-01-01 | 2026-12-31 | 100 / 14 | Valid&#xa;RT-402 | AS-102 | European | Satellite | 2026-05-01 | 2026-07-01 | 005 / 02 | Valid&#xa;RT-403 | AS-103 | Global | OTT | 2025-01-01 | 2026-06-01 | Unlimited| Expired" vertex="1">
+          <mxGeometry height="165" width="565" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform | Content Library Portal Console | Active Database Entity Mappings Verified" vertex="1">
+          <mxGeometry height="30" width="1140" x="80" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="740" width="1020" x="110" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Content Asset Acquisition, Registration &amp;amp; Ingest Management Portal" vertex="1">
+          <mxGeometry height="40" width="1020" x="110" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-49" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Rohit (Content Librarian)" vertex="1">
+          <mxGeometry height="30" width="220" x="890" y="1385" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="110" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e4e4e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⬅️ BACK TO PORTAL DASHBOARD" vertex="1">
+          <mxGeometry height="30" width="230" x="125" y="1427" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-52" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="990" x="125" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-53" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📋 NEW ASSET METADATA REGISTRATION (ContentAsset Table)" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-54" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Asset Title:" vertex="1">
+          <mxGeometry height="20" width="100" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-55" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Championship Football Live" vertex="1">
+          <mxGeometry height="30" width="410" x="130" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-56" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Asset Type:" vertex="1">
+          <mxGeometry height="20" width="100" x="570" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-57" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Sports [Dropdown ▼]" vertex="1">
+          <mxGeometry height="30" width="280" x="680" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-58" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Genre:" vertex="1">
+          <mxGeometry height="20" width="100" x="20" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-59" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Tournament" vertex="1">
+          <mxGeometry height="30" width="200" x="130" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-60" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Language:" vertex="1">
+          <mxGeometry height="20" width="80" x="360" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-61" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Spanish" vertex="1">
+          <mxGeometry height="30" width="180" x="440" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-62" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Classification:" vertex="1">
+          <mxGeometry height="20" width="100" x="650" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-63" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  U [Dropdown ▼]" vertex="1">
+          <mxGeometry height="30" width="200" x="760" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-64" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Duration (Time):" vertex="1">
+          <mxGeometry height="20" width="100" x="20" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-65" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  02:15:00" vertex="1">
+          <mxGeometry height="30" width="200" x="130" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-66" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Production Year:" vertex="1">
+          <mxGeometry height="20" width="100" x="360" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-67" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  2026" vertex="1">
+          <mxGeometry height="30" width="160" x="460" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-68" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Origin Country:" vertex="1">
+          <mxGeometry height="20" width="100" x="650" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-69" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Spain" vertex="1">
+          <mxGeometry height="30" width="200" x="760" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-70" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Upload Source File:" vertex="1">
+          <mxGeometry height="20" width="110" x="20" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-71" parent="YmY2X1InK2T_SaKjB84g-52" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3a3a3a;fontColor=#ffffff;fontSize=11;strokeColor=#555555;align=center;" value="📂 Choose Media Asset File..." vertex="1">
+          <mxGeometry height="30" width="200" x="130" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-72" parent="YmY2X1InK2T_SaKjB84g-52" style="text;html=1;fontColor=#00a157;fontSize=11;fontStyle=2" value="Target File Destination Link Path:  /media/sports/sp_102.ts" vertex="1">
+          <mxGeometry height="20" width="600" x="350" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-73" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="130" width="990" x="125" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-74" parent="YmY2X1InK2T_SaKjB84g-73" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📜 CONTRACT RIGHTS WINDOW SPECIFICATIONS (RightsRecord Table)" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-75" parent="YmY2X1InK2T_SaKjB84g-73" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Territory Scope:" vertex="1">
+          <mxGeometry height="20" width="100" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-76" parent="YmY2X1InK2T_SaKjB84g-73" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  European" vertex="1">
+          <mxGeometry height="30" width="170" x="130" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-77" parent="YmY2X1InK2T_SaKjB84g-73" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Medium:" vertex="1">
+          <mxGeometry height="20" width="60" x="320" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-78" parent="YmY2X1InK2T_SaKjB84g-73" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Satellite [▼]" vertex="1">
+          <mxGeometry height="30" width="140" x="380" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-79" parent="YmY2X1InK2T_SaKjB84g-73" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Start Date:" vertex="1">
+          <mxGeometry height="20" width="70" x="540" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-80" parent="YmY2X1InK2T_SaKjB84g-73" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  2026-05-01" vertex="1">
+          <mxGeometry height="30" width="120" x="610" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-81" parent="YmY2X1InK2T_SaKjB84g-73" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="End Date:" vertex="1">
+          <mxGeometry height="20" width="70" x="750" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-82" parent="YmY2X1InK2T_SaKjB84g-73" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  2026-07-01" vertex="1">
+          <mxGeometry height="30" width="140" x="820" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-83" parent="YmY2X1InK2T_SaKjB84g-73" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Max Allowed Runs:" vertex="1">
+          <mxGeometry height="20" width="110" x="20" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-84" parent="YmY2X1InK2T_SaKjB84g-73" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  5" vertex="1">
+          <mxGeometry height="30" width="110" x="130" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-85" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="90" width="990" x="125" y="1890" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-86" parent="YmY2X1InK2T_SaKjB84g-85" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="⏳ BACKGROUND PIPELINE INITIALIZATION (IngestJob Table Default Targets)" vertex="1">
+          <mxGeometry height="20" width="550" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-87" parent="YmY2X1InK2T_SaKjB84g-85" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Source Container Format:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-88" parent="YmY2X1InK2T_SaKjB84g-85" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Transport Stream" vertex="1">
+          <mxGeometry height="30" width="170" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-89" parent="YmY2X1InK2T_SaKjB84g-85" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Ingested By Operator ID:" vertex="1">
+          <mxGeometry height="20" width="140" x="360" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-90" parent="YmY2X1InK2T_SaKjB84g-85" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#00da7c;align=left;fontStyle=1" value="  2 (Rohit - Content Librarian Session Verified)" vertex="1">
+          <mxGeometry height="30" width="460" x="500" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="❌ CANCEL ENTRY &amp;amp; PURGE" vertex="1">
+          <mxGeometry height="40" width="230" x="565" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="💾 UPLOAD &amp;amp; EXECUTE INGESTION PIPELINE" vertex="1">
+          <mxGeometry height="40" width="300" x="815" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Secure Content Ingestion Interface | Database Persistence Validation Complete" vertex="1">
+          <mxGeometry height="30" width="1020" x="110" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="640" width="1040" x="100" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Programme Schedule Planning &amp;amp; Publication Console" vertex="1">
+          <mxGeometry height="40" width="1020" x="100" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-120" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Hema (Scheduling Editor)" vertex="1">
+          <mxGeometry height="30" width="220" x="880" y="2175" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1040" x="100" y="2210" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=#555555;" value="➕ CREATE TIME SLOT" vertex="1">
+          <mxGeometry height="30" width="150" x="115" y="2217" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1240ab;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="🔍 RUN CONFLICT CHECK" vertex="1">
+          <mxGeometry height="30" width="170" x="275" y="2217" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#aaaaaa;fontSize=11;strokeColor=none;" value="💾 SAVE DRAFT" vertex="1">
+          <mxGeometry height="30" width="120" x="455" y="2217" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="🚀 PUBLISH SCHEDULE" vertex="1">
+          <mxGeometry height="30" width="160" x="585" y="2217" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#252526;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="40" width="1040" x="100" y="2255" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-127" parent="1" style="text;html=1;fontColor=#ffffff;fontSize=11;" value="Target Channel: [ Entertainment  ▼ ]" vertex="1">
+          <mxGeometry height="20" width="220" x="115" y="2265" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-128" parent="1" style="text;html=1;fontColor=#ffffff;fontSize=11;" value="Broadcast Date: [ 2026-06-08 ]" vertex="1">
+          <mxGeometry height="20" width="200" x="340" y="2265" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-129" parent="1" style="text;html=1;fontColor=#00da7c;fontSize=11;fontStyle=1" value="Active Layout State: v2 (Draft Profile)" vertex="1">
+          <mxGeometry height="20" width="250" x="550" y="2265" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-130" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="215" width="990" x="115" y="2315" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-131" parent="YmY2X1InK2T_SaKjB84g-130" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📅 DAILY PROGRAMME SLOT GRID BUILDER (ProgrammeSlot Table)" vertex="1">
+          <mxGeometry height="20" width="500" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-132" parent="YmY2X1InK2T_SaKjB84g-130" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="SlotID | StartTime | EndTime  | AssetID  | Title                       | SlotType | ScheduledByID | Status&#xa;------------------------------------------------------------------------------------------------------------------------------------------------------------&#xa;SL-201 | 06:00:00  | 09:00:00 | AS-101   | Morning News Broadcast     | Live     | 3 (Hema)      | Confirmed&#xa;SL-202 | 09:00:00  | 11:15:00 | AS-102   | Championship Football Live | Premiere | 3 (Hema)      | Confirmed&#xa;SL-203 | 11:15:00  | 12:00:00 | AS-105   | Promotional Material Spot  | Promo    | 3 (Hema)      | Planned&#xa;SL-204 | 12:00:00  | 14:00:00 | AS-109   | Classic Cinema Matinee     | Repeat   | 3 (Hema)      | Planned" vertex="1">
+          <mxGeometry height="150" width="960" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-133" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="215" width="480" x="115" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-134" parent="YmY2X1InK2T_SaKjB84g-133" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📜 GRID REVISION ARCHIVE LOG (ScheduleVersion Table)" vertex="1">
+          <mxGeometry height="20" width="400" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-135" parent="YmY2X1InK2T_SaKjB84g-133" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="VersionID | ChannelID | BroadcastDate | VersionNumber | PublishedByID | Status&#xa;--------------------------------------------------------------------------------------------&#xa;VS-301    | CH-001    | 2026-06-08    | 1             | 1 (Admin)     | Superseded&#xa;VS-302    | CH-001    | 2026-06-08    | 2             | --            | Draft" vertex="1">
+          <mxGeometry height="150" width="450" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-136" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="215" width="515" x="625" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-137" parent="YmY2X1InK2T_SaKjB84g-136" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="⚠️ ENGINE VALIDATION LOG (Rights &amp;amp; Clash Rules Engine)" vertex="1">
+          <mxGeometry height="20" width="420" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-138" parent="YmY2X1InK2T_SaKjB84g-136" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="Rule Type Checked       | Engine Status | Validation Diagnostics Message&#xa;--------------------------------------------------------------------------------------------&#xa;Time Slot Collision Check| PASS          | No overlapping boundary anomalies.&#xa;Contract Rights Window   | PASS          | Asset runs verify within date windows.&#xa;Broadcast Hours Range    | PASS          | Timeline fits station operational cycle.&#xa;Classification Check     | WARNING       | Watershed restrictions apply past 21:00." vertex="1">
+          <mxGeometry height="150" width="495" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform | Programme Grid Editor Console | Production Schedule Availability Standard Enforced" vertex="1">
+          <mxGeometry height="30" width="1020" x="100" y="2780" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-142" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="660" width="1020" x="100" y="2870" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Programme Schedule Planning  |  New Time Slot Registration Modal" vertex="1">
+          <mxGeometry height="40" width="1020" x="100" y="2870" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-144" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Hema (Scheduling Editor)" vertex="1">
+          <mxGeometry height="30" width="220" x="880" y="2875" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="100" y="2910" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e4e4e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⬅️ BACK TO MAIN PROGRAMME GRID CONSOLE" vertex="1">
+          <mxGeometry height="30" width="310" x="115" y="2917" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-147" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="310" width="990" x="115" y="2980" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-148" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📅 SLOW METADATA &amp;amp; PLACEMENT BOUNDS (ProgrammeSlot Table Properties)" vertex="1">
+          <mxGeometry height="20" width="600" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-149" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Target Channel ID:" vertex="1">
+          <mxGeometry height="20" width="120" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-150" parent="YmY2X1InK2T_SaKjB84g-147" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#bbbbbb;align=left;" value="  CH-001 (Auto-filled: Entertainment Station Profile)" vertex="1">
+          <mxGeometry height="30" width="310" x="150" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-151" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Broadcast Date:" vertex="1">
+          <mxGeometry height="20" width="110" x="510" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-152" parent="YmY2X1InK2T_SaKjB84g-147" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#ffffff;align=left;" value="  2026-06-08" vertex="1">
+          <mxGeometry height="30" width="330" x="630" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-153" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Link Content Asset:" vertex="1">
+          <mxGeometry height="20" width="120" x="20" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-154" parent="YmY2X1InK2T_SaKjB84g-147" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  AS-102 | Championship Football Live [Dropdown Search Selector ▼]" vertex="1">
+          <mxGeometry height="30" width="810" x="150" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-155" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#00a157;fontSize=11;fontStyle=2" value="💡 Dynamic Metadata Feed View ➔ Type: Sports | Genre: Tournament | Standard Duration Bounds: 02:15:00 | Classification Code: U" vertex="1">
+          <mxGeometry height="20" width="810" x="150" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-156" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Planned Start Time:" vertex="1">
+          <mxGeometry height="20" width="120" x="20" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-157" parent="YmY2X1InK2T_SaKjB84g-147" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  18:00:00" vertex="1">
+          <mxGeometry height="30" width="310" x="150" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-158" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Planned End Time:" vertex="1">
+          <mxGeometry height="20" width="110" x="510" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-159" parent="YmY2X1InK2T_SaKjB84g-147" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  20:15:00" vertex="1">
+          <mxGeometry height="30" width="330" x="630" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-160" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Schedule Slot Type:" vertex="1">
+          <mxGeometry height="20" width="120" x="20" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-161" parent="YmY2X1InK2T_SaKjB84g-147" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Live [Dropdown Selection List ▼]" vertex="1">
+          <mxGeometry height="30" width="310" x="150" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-162" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Scheduled By User:" vertex="1">
+          <mxGeometry height="20" width="110" x="510" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-163" parent="YmY2X1InK2T_SaKjB84g-147" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#00da7c;align=left;fontStyle=1" value="  3 (Hema - Session Operations Credentials Validated)" vertex="1">
+          <mxGeometry height="30" width="330" x="630" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-164" parent="YmY2X1InK2T_SaKjB84g-147" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Initial Playout State:" vertex="1">
+          <mxGeometry height="20" width="120" x="20" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-165" parent="YmY2X1InK2T_SaKjB84g-147" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#bbbbbb;align=left;" value="  Planned (Standard Entry State Default)" vertex="1">
+          <mxGeometry height="30" width="310" x="150" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-166" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="90" width="990" x="115" y="3310" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-167" parent="YmY2X1InK2T_SaKjB84g-166" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="🛡️ REAL-TIME PRE-COMMIT VALIDATION ENGINE RULES (Constraint Constraint Matrix Evaluator)" vertex="1">
+          <mxGeometry height="20" width="650" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-168" parent="YmY2X1InK2T_SaKjB84g-166" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1240ab;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="🔍 RUN QUICK CONFLICT CHECK" vertex="1">
+          <mxGeometry height="32" width="220" x="20" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-169" parent="YmY2X1InK2T_SaKjB84g-166" style="text;html=1;fontColor=#00da7c;fontSize=11;fontStyle=1;verticalAlign=middle;" value="Validation Output Status: 🟢 PASS ➔ No grid timeline overlaps, schedule gaps, or asset contract rights violations detected." vertex="1">
+          <mxGeometry height="30" width="700" x="260" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-170" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="❌ DISCARD DATA CHANGES" vertex="1">
+          <mxGeometry height="40" width="220" x="595" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="💾 SAVE SLOT TO TIMELINE GRID" vertex="1">
+          <mxGeometry height="40" width="270" x="835" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Master Schedule Conflict Engine Infrastructure | DB Transact Validation Cleared" vertex="1">
+          <mxGeometry height="30" width="1020" x="100" y="3500" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-173" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="640" width="1020" x="100" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-174" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Commercial Traffic &amp;amp; Ad Break Management Console" vertex="1">
+          <mxGeometry height="40" width="1020" x="100" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-175" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 abhinav (Traffic Operator)" vertex="1">
+          <mxGeometry height="30" width="220" x="880" y="3605" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-176" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="100" y="3640" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=#555555;" value="➕ DEFINE BREAK POSITION" vertex="1">
+          <mxGeometry height="30" width="195" x="115" y="3647" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="🎫 BOOK AD SPOT" vertex="1">
+          <mxGeometry height="30" width="140" x="325" y="3647" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1240ab;fontColor=#ffffff;fontSize=11;strokeColor=none;" value="📊 RUN FILL RATE CHECK" vertex="1">
+          <mxGeometry height="30" width="170" x="480" y="3647" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-180" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#aaaaaa;fontSize=11;strokeColor=none;" value="📝 RECONCILE COMMITMENTS" vertex="1">
+          <mxGeometry height="30" width="190" x="665" y="3647" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-181" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="990" x="115" y="3710" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-182" parent="YmY2X1InK2T_SaKjB84g-181" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📺 STRUCTURAL AIRTIME BREAK ALLOCATIONS (CommercialBreak Table)" vertex="1">
+          <mxGeometry height="20" width="550" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-183" parent="YmY2X1InK2T_SaKjB84g-181" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="BreakID | SlotID | ChannelID | BroadcastDate | BreakStartTime | BreakDurationSeconds | AllocatedSpots | FilledSpots | Status&#xa;------------------------------------------------------------------------------------------------------------------------------------------------------------------------&#xa;BK-501  | SL-202 | CH-001    | 2026-06-08    | 18:45:00       | 180                  | 6              | 4           | PartiallyFilled&#xa;BK-502  | SL-202 | CH-001    | 2026-06-08    | 19:30:00       | 120                  | 4              | 4           | FullyBooked&#xa;BK-503  | SL-203 | CH-002    | 2026-06-08    | 21:15:00       | 240                  | 8              | 0           | Open" vertex="1">
+          <mxGeometry height="165" width="960" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-184" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="480" x="115" y="3960" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-185" parent="YmY2X1InK2T_SaKjB84g-184" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="🎫 CAMPAIGN ALLOCATIONS &amp;amp; PLACEMENTS (AdSpotBooking Table)" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-186" parent="YmY2X1InK2T_SaKjB84g-184" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="SpotID | BreakID | AdvertiserName   | CampaignRef | Duration | Position | Rate      | Status&#xa;------------------------------------------------------------------------------------------&#xa;SP-701 | BK-501  | Global Automotive| GA_SUMM_26  | 30 sec   | 1        | $450.00   | Booked&#xa;SP-702 | BK-501  | Carbon Soda Corp | CS_VIBE_26  | 30 sec   | 2        | $380.00   | Confirmed&#xa;SP-703 | BK-502  | Zenith Tech Inc  | ZT_NEXT_26  | 60 sec   | 1        | $900.00   | Confirmed" vertex="1">
+          <mxGeometry height="165" width="450" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-187" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="480" x="625" y="3960" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-188" parent="YmY2X1InK2T_SaKjB84g-187" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📊 TRAFFIC DELIVERY REAL-TIME PERFORMANCE" vertex="1">
+          <mxGeometry height="20" width="350" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-189" parent="YmY2X1InK2T_SaKjB84g-187" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="Operational Parameter Matrix| Current Metric | Inventory Health State&#xa;----------------------------------------------------------------------------&#xa;Total Commercial Slots      | 18 Slots       | Sync Active&#xa;Filled Commercial Inventory | 8 Spots Allocated| Revenue Locked&#xa;Average Ad Break Fill Rate  | 44.4% Total    | Capacity Available 🟢&#xa;Shortfall Spot Alerts       | 1 Warning Active| BK-503 Under-booked ⚠️" vertex="1">
+          <mxGeometry height="165" width="450" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform | Traffic Operations Console | Commercial Database Transaction Integrity Active" vertex="1">
+          <mxGeometry height="30" width="1020" x="100" y="4210" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-216" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="520" width="1020" x="100" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-217" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Traffic Operations  |  New Advertiser Commercial Spot Booking Form" vertex="1">
+          <mxGeometry height="40" width="1020" x="100" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-218" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 abhinav (Traffic Operator)" vertex="1">
+          <mxGeometry height="30" width="220" x="880" y="4325" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-219" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="100" y="4360" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-220" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e4e4e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⬅️ BACK TO TRAFFIC MAIN DASHBOARD" vertex="1">
+          <mxGeometry height="30" width="280" x="115" y="4367" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-221" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="270" width="990" x="115" y="4430" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-222" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📋 COMMERCIAL AD SPOT REGISTRATION SPECIFICATIONS (AdSpotBooking Table Properties)" vertex="1">
+          <mxGeometry height="20" width="650" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-223" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Target Break ID Group:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-224" parent="YmY2X1InK2T_SaKjB84g-221" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  BK-501 | Linked Slot ID: SL-202 | Expected Playout Window: 18:45:00 [Dropdown Picker ▼]" vertex="1">
+          <mxGeometry height="30" width="790" x="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-225" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#00a157;fontSize=11;fontStyle=2" value="💡 Active Capacity Metric ➔ Allocated Break Target Limit: 6 Spots Total | Logged Inventory Count: 4 Spots | Remaining: 2 Open Slots Available" vertex="1">
+          <mxGeometry height="20" width="790" x="170" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-226" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Advertiser Name:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-227" parent="YmY2X1InK2T_SaKjB84g-221" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Global Automotive Ltd" vertex="1">
+          <mxGeometry height="30" width="310" x="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-228" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Campaign Reference:" vertex="1">
+          <mxGeometry height="20" width="130" x="510" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-229" parent="YmY2X1InK2T_SaKjB84g-221" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  GA_SUMM_26" vertex="1">
+          <mxGeometry height="30" width="310" x="650" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-230" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Spot Duration (Seconds):" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-231" parent="YmY2X1InK2T_SaKjB84g-221" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  30" vertex="1">
+          <mxGeometry height="30" width="310" x="170" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-232" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Sequence Position inside Break:" vertex="1">
+          <mxGeometry height="20" width="140" x="510" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-233" parent="YmY2X1InK2T_SaKjB84g-221" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  5" vertex="1">
+          <mxGeometry height="30" width="310" x="650" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-234" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Contracted Billing Rate:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-235" parent="YmY2X1InK2T_SaKjB84g-221" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  450.00" vertex="1">
+          <mxGeometry height="30" width="310" x="170" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-236" parent="YmY2X1InK2T_SaKjB84g-221" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Initial Playout State:" vertex="1">
+          <mxGeometry height="20" width="130" x="510" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-237" parent="YmY2X1InK2T_SaKjB84g-221" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Booked [Dropdown List Selection ▼]" vertex="1">
+          <mxGeometry height="30" width="310" x="650" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="❌ DISCARD CHANGES" vertex="1">
+          <mxGeometry height="40" width="220" x="615" y="4730" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-239" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="💾 SAVE COMMERCIAL SPOT BOOKING" vertex="1">
+          <mxGeometry height="40" width="250" x="855" y="4730" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-240" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Secure Commercial Traffic Entry Panel | Rate Commit System Bound" vertex="1">
+          <mxGeometry height="30" width="1020" x="100" y="4810" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-241" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="640" width="1020" x="100" y="4900" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-242" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Transmission Log &amp;amp; On-Air Live Monitoring Master Dashboard" vertex="1">
+          <mxGeometry height="40" width="1020" x="100" y="4900" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-243" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Goutam (Transmission Controller)" vertex="1">
+          <mxGeometry height="30" width="260" x="840" y="4905" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-244" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="100" y="4940" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-245" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⚠️ LOG PLAYOUT INCIDENT" vertex="1">
+          <mxGeometry height="30" width="190" x="115" y="4947" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-246" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1240ab;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="🔄 TRIGGER SUBSTITUTION OVERRIDE" vertex="1">
+          <mxGeometry height="30" width="240" x="320" y="4947" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-247" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#ffffff;fontSize=11;strokeColor=#555555;" value="📊 RE-CALCULATE VARIANCES" vertex="1">
+          <mxGeometry height="30" width="210" x="575" y="4947" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-248" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#252526;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="40" width="1020" x="100" y="4985" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-249" parent="1" style="text;html=1;fontColor=#ffffff;fontSize=11;" value="Active Feed Scope: [ News Channel  ▼ ]" vertex="1">
+          <mxGeometry height="20" width="250" x="115" y="4995" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-250" parent="1" style="text;html=1;fontColor=#ff3b30;fontSize=11;fontStyle=1;align=right;" value="Live Playout Stream Pipeline Connection State: 🔴 LIVE FEED ACTIVE" vertex="1">
+          <mxGeometry height="20" width="440" x="660" y="4995" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-251" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="215" width="990" x="115" y="5045" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-252" parent="YmY2X1InK2T_SaKjB84g-251" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📺 REAL-TIME RUNNING PLAYOUT ENGINE RECORDS (TransmissionLog Table)" vertex="1">
+          <mxGeometry height="20" width="550" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-253" parent="YmY2X1InK2T_SaKjB84g-251" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="LogID  | SlotID | ChannelID | BroadcastDate | ActualStartTime | ActualEndTime | AssetTransmitted | VarianceSeconds | TransmissionStatus&#xa;--------------------------------------------------------------------------------------------------------------------------------------------------------------------&#xa;TL-901 | SL-201 | CH-001    | 2026-06-08    | 06:00:00        | 09:00:00      | AS-101           | 0               | AsScheduled&#xa;TL-902 | SL-202 | CH-001    | 2026-06-08    | 18:02:15        | 20:17:15      | AS-102           | 135             | LateStart&#xa;TL-903 | SL-203 | CH-001    | 2026-06-08    | 20:17:15        | 21:00:00      | AS-105           | 135             | Substituted" vertex="1">
+          <mxGeometry height="150" width="960" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-254" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="215" width="480" x="115" y="5280" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-255" parent="YmY2X1InK2T_SaKjB84g-254" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="⚠️ UNRESOLVED STREAM EXCEPTION INCIDENTS (TransmissionIncident Table)" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-256" parent="YmY2X1InK2T_SaKjB84g-254" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="IncidentID | LogID  | IncidentType | Duration | ReportedByID | RaisedTime | Status&#xa;-----------------------------------------------------------------------------------------&#xa;IN-601     | TL-902 | SignalLoss   | 45 sec   | 4 (Goutam)   | 18:00:10   | Resolved&#xa;IN-602     | TL-903 | AudioFault   | 12 sec   | 4 (Goutam)   | 20:22:00   | Open&#xa;IN-603     | TL-903 | ContentError | 00 sec   | 4 (Goutam)   | 20:45:15   | Reported" vertex="1">
+          <mxGeometry height="150" width="450" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-257" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="215" width="480" x="625" y="5280" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-258" parent="YmY2X1InK2T_SaKjB84g-257" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📊 STATION PLAYOUT TIMING VARIANCE OVERVIEW" vertex="1">
+          <mxGeometry height="20" width="400" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-259" parent="YmY2X1InK2T_SaKjB84g-257" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="Monitored Playout Metrics Matrix | Logged Value   | Playout State Code&#xa;-----------------------------------------------------------------------------------------&#xa;Current Cumulative Timing Shift  | +135 Seconds   | Delayed Playback Warning ⚠️&#xa;Total Tracked Fault Incidents    | 3 Logged Cases | Audit Trail Locked&#xa;Active Hardware Adherence Rating | 99.94% Match   | Tier-1 Standard Met 🟢&#xa;Last Manual Override Action Time | 20:17:15       | Substitute Asset Swapped" vertex="1">
+          <mxGeometry height="150" width="450" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-260" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Transmission Control Suite Room Console View | Master Relational Integrity Confirmed" vertex="1">
+          <mxGeometry height="30" width="1020" x="100" y="5510" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="520" width="1020" x="100" y="5590" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Transmission Control Room  |  Playout Incident Logging Form Console" vertex="1">
+          <mxGeometry height="40" width="1020" x="100" y="5590" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-265" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Goutam (Transmission Controller)" vertex="1">
+          <mxGeometry height="30" width="260" x="840" y="5595" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-266" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="100" y="5630" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-267" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e4e4e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⬅️ RETURN TO TRANSMISSION CONTROL ROOM VIEW" vertex="1">
+          <mxGeometry height="30" width="340" x="115" y="5637" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-268" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="270" width="990" x="115" y="5700" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-269" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📋 TRANSMISSION STREAM EXCEPTION DECLARATION (TransmissionIncident Table Parameters)" vertex="1">
+          <mxGeometry height="20" width="650" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-270" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Target Playout Log Link:" vertex="1">
+          <mxGeometry height="20" width="150" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-271" parent="YmY2X1InK2T_SaKjB84g-268" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  TL-903 | Linked Timeline Slot Focus: SL-203 | Channel Feed: CH-001 [Dropdown List Picker ▼]" vertex="1">
+          <mxGeometry height="30" width="780" x="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-272" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#00a157;fontSize=11;fontStyle=2" value="💡 Context Integrity ➔ Selecting target logs locks automated calculations for tracking playout timeline drift and deviation records." vertex="1">
+          <mxGeometry height="20" width="780" x="180" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-273" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Incident Disruption Type:" vertex="1">
+          <mxGeometry height="20" width="150" x="20" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-274" parent="YmY2X1InK2T_SaKjB84g-268" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  AudioFault [Dropdown Choice Selector ▼]" vertex="1">
+          <mxGeometry height="30" width="300" x="180" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-275" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Disruption Duration (Secs):" vertex="1">
+          <mxGeometry height="20" width="150" x="510" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-276" parent="YmY2X1InK2T_SaKjB84g-268" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  12" vertex="1">
+          <mxGeometry height="30" width="290" x="670" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-277" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Reported By Controller ID:" vertex="1">
+          <mxGeometry height="20" width="150" x="20" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-278" parent="YmY2X1InK2T_SaKjB84g-268" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#00da7c;align=left;fontStyle=1" value="  4 (Auto-filled: Goutam Session Identity Authenticated)" vertex="1">
+          <mxGeometry height="30" width="300" x="180" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-279" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Incident Raised Time:" vertex="1">
+          <mxGeometry height="20" width="140" x="510" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-280" parent="YmY2X1InK2T_SaKjB84g-268" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#bbbbbb;align=left;" value="  2026-06-08 11:35:41 (Current Clock Sync)" vertex="1">
+          <mxGeometry height="30" width="290" x="670" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-281" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Resolution Verification Time:" vertex="1">
+          <mxGeometry height="20" width="150" x="20" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-282" parent="YmY2X1InK2T_SaKjB84g-268" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#888888;align=left;fontStyle=2" value="  [ hh:mm:ss / Leave empty if incident is active ]" vertex="1">
+          <mxGeometry height="30" width="300" x="180" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-283" parent="YmY2X1InK2T_SaKjB84g-268" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Current Exception Lifecycle:" vertex="1">
+          <mxGeometry height="20" width="150" x="510" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-284" parent="YmY2X1InK2T_SaKjB84g-268" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Open [Dropdown Selection Toggle ▼]" vertex="1">
+          <mxGeometry height="30" width="290" x="670" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-285" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="❌ VOID ERROR REPORT" vertex="1">
+          <mxGeometry height="40" width="220" x="615" y="6000" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-286" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="💾 COMPILE &amp;amp; LOCK INCIDENT FILE" vertex="1">
+          <mxGeometry height="40" width="250" x="855" y="6000" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-287" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Secure Stream Failure Audit Logger Panel | Engineering Metrics Bound" vertex="1">
+          <mxGeometry height="30" width="1020" x="100" y="6080" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-288" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="640" width="1250" x="100" y="6180" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-289" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Content Rights &amp;amp; Compliance Management Dashboard" vertex="1">
+          <mxGeometry height="40" width="1260" x="100" y="6180" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-290" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 JIBINN (Compliance Officer)" vertex="1">
+          <mxGeometry height="30" width="260" x="1070" y="6180" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-291" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1250" x="100" y="6220" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-292" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1240ab;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="🔍 EVALUATE SCHEDULE FLAGS" vertex="1">
+          <mxGeometry height="30" width="220" x="115" y="6227" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-293" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#ffffff;fontSize=11;strokeColor=#555555;" value="📋 FILE REGULATORY COMPLIANCE REPORT" vertex="1">
+          <mxGeometry height="30" width="260" x="350" y="6227" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-294" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="✅ CLEAR PENDING FLAG" vertex="1">
+          <mxGeometry height="30" width="180" x="625" y="6227" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-295" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="⚠️ ESCALATE VIOLATION" vertex="1">
+          <mxGeometry height="30" width="180" x="820" y="6227" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-296" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="1075" x="115" y="6290" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-297" parent="YmY2X1InK2T_SaKjB84g-296" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📜 STATION LEGAL &amp;amp; REGULATORY OBLIGATIONS TRACKER (RegulatoryObligation Table)" vertex="1">
+          <mxGeometry height="20" width="650" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-298" parent="YmY2X1InK2T_SaKjB84g-296" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="ObligationID | ChannelID | ObligationType            | MeasurementPeriod | TargetValue | ActualValue | ComplianceStatus | ReportingDeadline&#xa;------------------------------------------------------------------------------------------------------------------------------------------------------------------------&#xa;OB-601       | CH-001    | WatershedCompliance      | Daily             | 21:00       | 21:00       | Compliant        | 2026-06-09&#xa;OB-602       | CH-001    | SubtitlingQuota          | Monthly           | 80%         | 74%         | AtRisk           | 2026-06-30&#xa;OB-603       | CH-002    | AdvertisingMinutes       | Hourly            | 12 Min Max  | 14 Min      | Breached         | 2026-06-08" vertex="1">
+          <mxGeometry height="165" width="1045" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-299" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="575" x="115" y="6540" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-300" parent="YmY2X1InK2T_SaKjB84g-299" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="⚠️ CRITICAL AUDIT EXCEPTION QUEUE (ContentComplianceFlag Table)" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-301" parent="YmY2X1InK2T_SaKjB84g-299" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="FlagID | AssetID | SlotID | FlagType              | FlaggedDate | ReviewedByID | Status&#xa;-----------------------------------------------------------------------------------------&#xa;FL-701 | AS-103  | SL-204 | RightsExpired         | 2026-06-08  | 5 (JIBINN)   | Open&#xa;FL-702 | AS-105  | SL-203 | ClassificationMismatch| 2026-06-08  | 5 (JIBINN)   | Open&#xa;FL-703 | AS-109  | SL-204 | WatershedViolation    | 2026-06-07  | 5 (JIBINN)   | Cleared" vertex="1">
+          <mxGeometry height="165" width="545" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-302" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="550" x="725" y="6530" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-303" parent="YmY2X1InK2T_SaKjB84g-302" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📊 LEGAL BOUNDS STANDARD ADHERENCE ANALYTICS" vertex="1">
+          <mxGeometry height="20" width="400" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-304" parent="YmY2X1InK2T_SaKjB84g-302" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="Monitored Compliance Parameters  | Metric Run     | Operational Status State&#xa;-----------------------------------------------------------------------------------------&#xa;Total Outstanding Pending Flags  | 2 Active Cases | Immediate Action Required ⚠️&#xa;Station Core Quota Adherence     | 94.22% Target  | Within Safe Margin Tiers 🟢&#xa;Last Logged Compliance Breach    | OB-603 Tracked  | Advertising Limit Overflowed ❌&#xa;Regulatory Filings Calendar Count| 1 Due Soon     | Deadline Scope Locked" vertex="1">
+          <mxGeometry height="165" width="535" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-305" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Content Rights &amp;amp; Compliance Officer Console Hub | Legal Database Integrity Active" vertex="1">
+          <mxGeometry height="30" width="1020" x="100" y="6790" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-307" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="490" width="1020" x="90" y="6880" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-308" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Compliance Operations  |  Content Standards Verification &amp;amp; Flag Review Module" vertex="1">
+          <mxGeometry height="40" width="1020" x="90" y="6880" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-309" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 JIBINN (Compliance Officer)" vertex="1">
+          <mxGeometry height="30" width="260" x="830" y="6885" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-310" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="90" y="6920" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-311" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e4e4e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⬅️ BACK TO MAIN CONTENT RIGHTS &amp;amp; COMPLIANCE MONITOR" vertex="1">
+          <mxGeometry height="30" width="410" x="105" y="6927" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-312" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="990" x="105" y="6990" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-313" parent="YmY2X1InK2T_SaKjB84g-312" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📋 COMPLIANCE ANOMALY AUDIT Lifecyle MANAGEMENT (ContentComplianceFlag Database Updates)" vertex="1">
+          <mxGeometry height="20" width="700" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-314" parent="YmY2X1InK2T_SaKjB84g-312" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Select Target Exception Flag:" vertex="1">
+          <mxGeometry height="20" width="180" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-315" parent="YmY2X1InK2T_SaKjB84g-312" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  FL-702 | Asset Identification Key: AS-105 | Targeted Grid Timeline Row Focus: SL-203 [Dropdown Picker ▼]" vertex="1">
+          <mxGeometry height="30" width="750" x="210" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-316" parent="YmY2X1InK2T_SaKjB84g-312" style="text;html=1;fontColor=#00a157;fontSize=11;fontStyle=2" value="💡 Active Violation Context ➔ Classification Error Detected | Target timeline slot runs outside authorized legal watershed broadcast restrictions." vertex="1">
+          <mxGeometry height="20" width="750" x="210" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-317" parent="YmY2X1InK2T_SaKjB84g-312" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Violation Flag Category:" vertex="1">
+          <mxGeometry height="20" width="180" x="20" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-318" parent="YmY2X1InK2T_SaKjB84g-312" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  ClassificationMismatch [Dropdown Menu List Selection ▼]" vertex="1">
+          <mxGeometry height="30" width="300" x="210" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-319" parent="YmY2X1InK2T_SaKjB84g-312" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Flag Logged Baseline Date:" vertex="1">
+          <mxGeometry height="20" width="150" x="540" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-320" parent="YmY2X1InK2T_SaKjB84g-312" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#bbbbbb;align=left;" value="  2026-06-08 (System Automatic Registry Entry)" vertex="1">
+          <mxGeometry height="30" width="260" x="700" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-321" parent="YmY2X1InK2T_SaKjB84g-312" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Assigned Auditing Officer ID:" vertex="1">
+          <mxGeometry height="20" width="180" x="20" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-322" parent="YmY2X1InK2T_SaKjB84g-312" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;fontColor=#00da7c;align=left;fontStyle=1" value="  5 (Auto-filled: JIBINN Verified Operations Profile Session)" vertex="1">
+          <mxGeometry height="30" width="300" x="210" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-323" parent="YmY2X1InK2T_SaKjB84g-312" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Updated Compliance State:" vertex="1">
+          <mxGeometry height="20" width="150" x="540" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-324" parent="YmY2X1InK2T_SaKjB84g-312" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Cleared [Dropdown Status Selection Selector ▼]" vertex="1">
+          <mxGeometry height="30" width="260" x="700" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-325" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="❌ ABORT ASSESSMENT" vertex="1">
+          <mxGeometry height="40" width="220" x="605" y="7250" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-326" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="💾 RECORD COMPLIANCE ACTION RECORD" vertex="1">
+          <mxGeometry height="40" width="250" x="845" y="7250" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-327" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Authorized Regulatory Standards Audit Portal | Core Compliance Constraints Confirmed" vertex="1">
+          <mxGeometry height="30" width="1020" x="90" y="7340" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-328" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="640" width="1020" x="90" y="7480" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-329" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Global System Administration &amp;amp; Core Infrastructure Console" vertex="1">
+          <mxGeometry height="40" width="1020" x="90" y="7480" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-330" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Janane (Broadcast Admin)" vertex="1">
+          <mxGeometry height="30" width="260" x="830" y="7485" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-331" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="90" y="7520" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-332" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=#555555;" value="👤 PROVISION STAFF PROFILE" vertex="1">
+          <mxGeometry height="30" width="210" x="105" y="7527" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-333" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="📺 CONFIGURE NEW CHANNEL" vertex="1">
+          <mxGeometry height="30" width="210" x="330" y="7527" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-334" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1240ab;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="🛡️ VIEW SYSTEM AUDIT TRAILS" vertex="1">
+          <mxGeometry height="30" width="220" x="555" y="7527" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-335" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="990" x="105" y="7590" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-336" parent="YmY2X1InK2T_SaKjB84g-335" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📺 STATION BROADCAST CHANNELS CONFIGURATION DATA LAYOUT (Channel Table)" vertex="1">
+          <mxGeometry height="20" width="600" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-337" parent="YmY2X1InK2T_SaKjB84g-335" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="ChannelID | ChannelName              | ChannelType   | BroadcastHoursStart | BroadcastHoursEnd | Status&#xa;------------------------------------------------------------------------------------------------------------------------------------------------------------------------&#xa;CH-001    | Entertainment Network 1    | Entertainment | 06:00:00            | 02:00:00           | Active&#xa;CH-002    | Global Action News 24      | News          | 00:00:00            | 23:59:59           | Active&#xa;CH-003    | Junior Playout Kids Central| Kids          | 05:00:00            | 22:00:00           | Active" vertex="1">
+          <mxGeometry height="165" width="960" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-338" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="480" x="105" y="7840" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-339" parent="YmY2X1InK2T_SaKjB84g-338" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="👤 STAFF PROVISIONING REGISTRY (User Table Identity Access)" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-340" parent="YmY2X1InK2T_SaKjB84g-338" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="UserID | Name    | Role                   | ChannelID | Status&#xa;--------------------------------------------------------------------&#xa;1      | Janane  | Admin                  | 0 (All)   | Active&#xa;2      | Rohit   | ContentLibrarian       | 1         | Active&#xa;3      | Hema    | SchedulingEditor       | 1         | Active&#xa;4      | abhinav | TrafficOperator        | 2         | Active" vertex="1">
+          <mxGeometry height="165" width="450" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-341" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="230" width="480" x="615" y="7840" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-342" parent="YmY2X1InK2T_SaKjB84g-341" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="🛡️ GLOBAL SECURITY TRANSACTION LOGGING TRACKER (AuditLog Table)" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-343" parent="YmY2X1InK2T_SaKjB84g-341" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="AuditID | UserID | Action Log Entry Summary       | Timestamp&#xa;--------------------------------------------------------------------&#xa;AD-001  | 3      | Published Grid Schedule Ver 1 | 2026-06-08 09:15&#xa;AD-002  | 2      | Uploaded &amp;amp; Ingested Asset File| 2026-06-08 10:44&#xa;AD-003  | 4      | Booked Advertiser AdSpot SP-701| 2026-06-08 11:20&#xa;AD-004  | 5      | Cleared Watershed Exception Flag| 2026-06-08 11:32" vertex="1">
+          <mxGeometry height="165" width="450" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-344" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Global System Administrator Console | Core Network Infrastructure Security Active" vertex="1">
+          <mxGeometry height="30" width="1020" x="90" y="8090" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-345" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="420" width="1020" x="90" y="8200" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-346" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Infrastructure Management  |  New Playout Station Channel Entry Form" vertex="1">
+          <mxGeometry height="40" width="1020" x="90" y="8200" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-347" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Janane (Broadcast Admin)" vertex="1">
+          <mxGeometry height="30" width="260" x="830" y="8205" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-348" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="90" y="8240" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-349" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e4e4e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⬅️ BACK TO GLOBAL SYSTEM ADMINISTRATION CONSOLE" vertex="1">
+          <mxGeometry height="30" width="370" x="105" y="8247" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-350" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="200" width="990" x="105" y="8310" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-351" parent="YmY2X1InK2T_SaKjB84g-350" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📋 INFRASTRUCTURE CHANNEL ENTITY CONFIGURATION (Channel Table Properties)" vertex="1">
+          <mxGeometry height="20" width="600" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-352" parent="YmY2X1InK2T_SaKjB84g-350" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Channel Name:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-353" parent="YmY2X1InK2T_SaKjB84g-350" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Entertainment Network 1" vertex="1">
+          <mxGeometry height="30" width="760" x="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-354" parent="YmY2X1InK2T_SaKjB84g-350" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Station Channel Type:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-355" parent="YmY2X1InK2T_SaKjB84g-350" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Entertainment [Dropdown Grid Selection Selector ▼]" vertex="1">
+          <mxGeometry height="30" width="320" x="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-356" parent="YmY2X1InK2T_SaKjB84g-350" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Operational Playout Windows:" vertex="1">
+          <mxGeometry height="20" width="160" x="540" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-357" parent="YmY2X1InK2T_SaKjB84g-350" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  06:00:00 (hh:mm:ss)" vertex="1">
+          <mxGeometry height="30" width="110" x="710" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-358" parent="YmY2X1InK2T_SaKjB84g-350" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  02:00:00 (hh:mm:ss)" vertex="1">
+          <mxGeometry height="30" width="110" x="830" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-359" parent="YmY2X1InK2T_SaKjB84g-350" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Playout Status Entry:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-360" parent="YmY2X1InK2T_SaKjB84g-350" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Active [Dropdown Status State ▼]" vertex="1">
+          <mxGeometry height="30" width="320" x="180" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-361" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="❌ DISCARD CHANGES" vertex="1">
+          <mxGeometry height="40" width="220" x="605" y="8530" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-362" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="💾 SAVE STATION DATA ROUTE" vertex="1">
+          <mxGeometry height="40" width="250" x="845" y="8530" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-363" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Secure Channel Node Provisioning Interface | Relational Bounds Bound" vertex="1">
+          <mxGeometry height="30" width="1020" x="90" y="8590" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-364" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="470" width="1020" x="90" y="8680" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-365" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  Identity &amp;amp; Access Management  |  New Staff Personnel Profile Provisioning Form" vertex="1">
+          <mxGeometry height="40" width="1020" x="90" y="8680" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-366" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Janane (Broadcast Admin)" vertex="1">
+          <mxGeometry height="30" width="260" x="830" y="8685" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-367" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="90" y="8720" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-368" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e4e4e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⬅️ BACK TO GLOBAL SYSTEM ADMINISTRATION CONSOLE" vertex="1">
+          <mxGeometry height="30" width="370" x="105" y="8727" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-369" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;fontStyle=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="250" width="990" x="105" y="8790" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-370" parent="YmY2X1InK2T_SaKjB84g-369" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="📋 SECURITY PROFILE ASSIGNMENT COMPLIANCE (User Table System Matrix)" vertex="1">
+          <mxGeometry height="20" width="600" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-371" parent="YmY2X1InK2T_SaKjB84g-369" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Operator Full Name:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-372" parent="YmY2X1InK2T_SaKjB84g-369" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Rohit" vertex="1">
+          <mxGeometry height="30" width="760" x="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-373" parent="YmY2X1InK2T_SaKjB84g-369" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Corporate Email Address:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-374" parent="YmY2X1InK2T_SaKjB84g-369" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  rohit@broadcastops.com" vertex="1">
+          <mxGeometry height="30" width="310" x="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-375" parent="YmY2X1InK2T_SaKjB84g-369" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Contact Phone String:" vertex="1">
+          <mxGeometry height="20" width="140" x="530" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-376" parent="YmY2X1InK2T_SaKjB84g-369" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  +91-9999999999" vertex="1">
+          <mxGeometry height="30" width="250" x="690" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-377" parent="YmY2X1InK2T_SaKjB84g-369" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Assigned System Role:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-378" parent="YmY2X1InK2T_SaKjB84g-369" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  ContentLibrarian [Dropdown List Core Choices ▼]" vertex="1">
+          <mxGeometry height="30" width="760" x="180" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-379" parent="YmY2X1InK2T_SaKjB84g-369" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="Channel Allocation Scope:" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-380" parent="YmY2X1InK2T_SaKjB84g-369" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  CH-001 | Entertainment Network Profile [Dropdown Scope Target ▼]" vertex="1">
+          <mxGeometry height="30" width="310" x="180" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-381" parent="YmY2X1InK2T_SaKjB84g-369" style="text;html=1;fontColor=#aaaaaa;fontSize=11;" value="System Lifecycle State:" vertex="1">
+          <mxGeometry height="20" width="140" x="530" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-382" parent="YmY2X1InK2T_SaKjB84g-369" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#555555;fontColor=#ffffff;align=left;" value="  Active [Dropdown Verification Toggle ▼]" vertex="1">
+          <mxGeometry height="30" width="250" x="690" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-383" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="❌ VOID REGISTRATION" vertex="1">
+          <mxGeometry height="40" width="220" x="605" y="9060" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-384" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeColor=none;" value="💾 AUTHORIZE STAFF SECURITY PROFILE" vertex="1">
+          <mxGeometry height="40" width="250" x="845" y="9060" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-385" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | Secure Staff Account Provisioning Terminal | IAM Security Policy Active" vertex="1">
+          <mxGeometry height="30" width="1020" x="90" y="9120" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-387" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e1e1e;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="420" width="1020" x="90" y="9230" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-388" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=15;fontStyle=1;fontSize=13;" value="📺 BroadcastOps  |  System Administration Module  |  Global Platform Transaction Audit Trail Viewer" vertex="1">
+          <mxGeometry height="40" width="1020" x="90" y="9230" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-389" parent="1" style="text;html=1;fontColor=#ffffff;align=right;verticalAlign=middle;fontStyle=1" value="👤 Janane (Broadcast Admin)" vertex="1">
+          <mxGeometry height="30" width="260" x="830" y="9235" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-390" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#444444;" value="" vertex="1">
+          <mxGeometry height="45" width="1020" x="90" y="9270" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-391" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e4e4e;fontColor=#ffffff;fontStyle=1;fontSize=11;strokeColor=none;" value="⬅️ BACK TO ADMIN DASHBOARD" vertex="1">
+          <mxGeometry height="30" width="230" x="105" y="9277" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-392" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1240ab;fontColor=#ffffff;fontSize=11;strokeColor=none;fontStyle=1;" value="🔍 FILTER SECTOR TRAILS" vertex="1">
+          <mxGeometry height="30" width="190" x="350" y="9277" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-393" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3e3e3e;fontColor=#ffffff;fontSize=11;strokeColor=#555555;" value="🖨️ EXPORT TAMPER-PROOF ARCHIVE" vertex="1">
+          <mxGeometry height="30" width="250" x="555" y="9277" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-394" parent="1" style="swimlane;startSize=30;fillColor=#252526;strokeColor=#444444;fontColor=#ffffff;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="250" width="990" x="105" y="9340" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-395" parent="YmY2X1InK2T_SaKjB84g-394" style="text;html=1;fontColor=#ffffff;fontStyle=1;fontSize=12;" value="🛡️ IMMUTABLE FORENSIC SYSTEM OPERATIONS MONITOR (AuditLog Table Master Data Stream)" vertex="1">
+          <mxGeometry height="20" width="650" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-396" parent="YmY2X1InK2T_SaKjB84g-394" style="shape=table;startSize=0;fillColor=#1e1e1e;strokeColor=#444444;fontColor=#cccccc;fontFamily=Courier New;fontSize=11;align=left;spacingLeft=8;spacingTop=4;" value="AuditID | UserID | Operator Profile         | Executed Security Action Description          | Target Entity Category | Timestamp Field&#xa;----------------------------------------------------------------------------------------------------------------------------------------------------------------&#xa;AD-001  | 3      | Hema (SchedulingEditor)  | Published Grid Program Schedule Version 1     | ScheduleVersion        | 2026-06-08 09:15:02&#xa;AD-002  | 2      | Rohit (ContentLibrarian) | Uploaded &amp;amp; Ingested Media File Target AS-102  | ContentAsset           | 2026-06-08 10:44:19&#xa;AD-003  | 4      | abhinav (TrafficOperator)| Booked Advertiser Campaign Commercial Spot SP-701| AdSpotBooking          | 2026-06-08 11:20:55&#xa;AD-004  | 5      | JIBINN (ComplianceOfficer)| Cleared Watershed Boundary Evaluation Flag FL-702| ContentComplianceFlag  | 2026-06-08 11:32:41" vertex="1">
+          <mxGeometry height="185" width="960" x="15" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-397" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#111111;fontColor=#888888;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem | System Wide Audit Engine Interface Running | Security Logging Layer Bound" vertex="1">
+          <mxGeometry height="30" width="1020" x="90" y="9620" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-398" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#1A1A1A);strokeColor=#666666;fontColor=#333333;fillStyle=solid;labelBackgroundColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="580" width="760" x="980" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-399" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66b2ff;fontColor=#000000;align=left;spacingLeft=15;fontStyle=1" value="📺 BroadcastOps  |  Enterprise Production Access Gateway" vertex="1">
+          <mxGeometry height="40" width="760" x="980" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-400" parent="1" style="swimlane;startSize=0;fillColor=#cccccc;strokeColor=#999999;" value="" vertex="1">
+          <mxGeometry height="460" width="440" x="1140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-401" parent="YmY2X1InK2T_SaKjB84g-400" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;fontColor=#000000;" value="REQUEST SYSTEM CLEARANCE PROFILE" vertex="1">
+          <mxGeometry height="25" width="400" x="20" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-402" parent="YmY2X1InK2T_SaKjB84g-400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#333333;" value="Full Name" vertex="1">
+          <mxGeometry height="20" width="360" x="40" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-403" parent="YmY2X1InK2T_SaKjB84g-400" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontColor=#777777;fillColor=#e6e6e6;strokeColor=#aaaaaa;" value="  e.g., Rohit" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-404" parent="YmY2X1InK2T_SaKjB84g-400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#333333;" value="Corporate Email Address" vertex="1">
+          <mxGeometry height="20" width="360" x="40" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-405" parent="YmY2X1InK2T_SaKjB84g-400" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontColor=#777777;fillColor=#e6e6e6;strokeColor=#aaaaaa;" value="  rohit@broadcastops.com" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-406" parent="YmY2X1InK2T_SaKjB84g-400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#333333;" value="Contact Phone String" vertex="1">
+          <mxGeometry height="20" width="360" x="40" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-407" parent="YmY2X1InK2T_SaKjB84g-400" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontColor=#777777;fillColor=#e6e6e6;strokeColor=#aaaaaa;" value="  +91-9999999999" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-408" parent="YmY2X1InK2T_SaKjB84g-400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#333333;" value="Requested Operational System Role" vertex="1">
+          <mxGeometry height="20" width="360" x="40" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-409" parent="YmY2X1InK2T_SaKjB84g-400" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontColor=#444444;fillColor=#e6e6e6;strokeColor=#aaaaaa;" value="  ContentLibrarian [Dropdown Choices Selection List ▼]" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-410" parent="YmY2X1InK2T_SaKjB84g-400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#333333;" value="Primary Allocated Channel Target" vertex="1">
+          <mxGeometry height="20" width="360" x="40" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-411" parent="YmY2X1InK2T_SaKjB84g-400" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontColor=#444444;fillColor=#e6e6e6;strokeColor=#aaaaaa;" value="  CH-001 | Entertainment Network Profile Scope [▼]" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-412" parent="YmY2X1InK2T_SaKjB84g-400" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4caf50;fontColor=#ffffff;fontStyle=1;strokeColor=#388e3c;fontSize=12;" value="SUBMIT ACCESS REQUEST TO ADMIN" vertex="1">
+          <mxGeometry height="35" width="360" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-413" parent="YmY2X1InK2T_SaKjB84g-400" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#0066cc;textDecoration=underline;" value="Already have clearance? Back to Login" vertex="1">
+          <mxGeometry height="20" width="360" x="40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="YmY2X1InK2T_SaKjB84g-414" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0e0e0;fontColor=#666666;fontSize=10;strokeColor=none;" value="© 2026 BroadcastOps Platform Ecosystem. Authorized Operations Personnel Only." vertex="1">
+          <mxGeometry height="30" width="760" x="980" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
