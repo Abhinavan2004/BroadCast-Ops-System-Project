@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project.csproj": {}
+    "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project.csproj": {
+    "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project.csproj",
+        "projectUniqueName": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project.csproj",
         "projectName": "BroadCast-Ops-System-Project",
-        "projectPath": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project.csproj",
+        "projectPath": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project.csproj",
         "packagesPath": "C:\\Users\\2503710\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\obj\\",
+        "outputPath": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\BroadCast-Ops-System-Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BroadCast-Ops-System-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f8c9e7f7f1adb0d1c87226bea17bdb4685af233")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50d9611c021fadbd572776ce339441978356393")]
 [assembly: System.Reflection.AssemblyProductAttribute("BroadCast-Ops-System-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BroadCast-Ops-System-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
